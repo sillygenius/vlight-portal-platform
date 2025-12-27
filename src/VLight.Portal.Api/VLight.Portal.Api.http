@@ -1,0 +1,6 @@
+@VLight.Portal.Api_HostAddress = http://localhost:5201
+
+GET {{VLight.Portal.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
